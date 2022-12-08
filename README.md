@@ -29,3 +29,9 @@ Next we have our Crypto Market Cap API which is crucial for our Data Visualizati
 For our Data Visualizations we made use of plotly to plot out twitter user interface data into Sentiment Polarity v Time, Volume over Time, and Closing Averages over Time, we also included a plot of Polarity in direct comparison with the closing price to see how well our model is at predicting market sentiment.
 
 For more details on each below includes Source Code Documentation with snippets and visuals for better understanding.
+
+# Code Documentation
+
+**Quick Intro**
+
+List of Packages needed before beginning: Tweepy, 
