@@ -4,6 +4,8 @@
 
 **Also: Please make sure all files are kept in their respective folders and downloaded to drive as we use drive.mount for both our Logisitical Regression models(keep/run everything from "CS410Project", as well as our Data Visualizations (database folder), the colab will NOT run if these instructions are not followed**
 
+**Youtube Demo Link: https://www.youtube.com/watch?v=9SGJVBZvGyo**
+
 This project repo covers the CS410 Text Information Systems Final Project conducted by our 4 man team. The main idea of this repo is to provide code, documentation, and a demo for a Twitter Sentiment Analysis Tool based on Crypto market data using Python, Tweepy, TextBlob for initial sentiment testing, SKlearn Logistic Regression models, Crypto-Marketcap API, and Plotly for Data Visualizations. **This Code is best run via Google Colab, as all relevant files, information, and installations are done directly in our file interface.**
 
 **Files Included**
