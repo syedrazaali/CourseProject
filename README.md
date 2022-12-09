@@ -6,9 +6,17 @@ This project repo covers the CS410 Text Information Systems Final Project conduc
 
 **Files Included**
 
-twitter-interface.ipynb - This file contains all the code for the project (**Use this format tot run and view results of represented code)**
+twitter_crypto_sentiment.ipynb - This file contains all the code for the project (**Use this format tot run and view results of represented code)**
 
-main.py - Main source code file to view all code conducted for this project in one uniform location
+logreg_train.ipynb - ML model training file 
+
+logreg.pkl - binary of logreg colab which is called in our main crypto sentiment file
+
+tfidf_transformer.pkl - binary of tfidf_transformer found in logreg_train ipynb  file to run in the main
+
+train_data.csv - training data specifically used in this project
+
+database - folder which includes tweet data specifically used for visualizations
 
 Project Proposal.pdf - PDF file proposing deliverables to be worked on for this project
 
