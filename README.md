@@ -10,6 +10,8 @@ This project repo covers the CS410 Text Information Systems Final Project conduc
 
 **Files Included**
 
+**The CS410Project Folder contains all binary, Google colab, and train_data.csv files while the "database" folder contains the data that runs with the training data and outputs visualizations**
+
 twitter_crypto_sentiment.ipynb - This file contains all the code for the project (**Use this format tot run and view results of represented code)**
 
 logreg_train.ipynb - ML model training file 
