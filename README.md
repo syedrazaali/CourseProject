@@ -1,6 +1,6 @@
 # CourseProject
 
-**Quick Note: If you want to run this source code yourself, you will need to gain Elevated Access to the Tweepy API to make API calls in quick succession. The provided Colab Notebook and Demo will contain all source code already ran to show results of each respective code block (this is also to ease grading workflow).**
+**Quick Note: If you want to run this source code yourself, you will need to gain Elevated Access to the Tweepy API to make API calls in quick succession. The provided Colab Notebook and Demo will contain all source code already ran to show results of each respective code block (this is also to ease grading workflow). Also: Please make sure all files are kept in their respective folders and downloaded to drive as we use drive.mount for both our Logisitical Regression models(keep/run everything from "CS410Project", as well as our Data Visualizations (database folder)**
 
 This project repo covers the CS410 Text Information Systems Final Project conducted by our 4 man team. The main idea of this repo is to provide code, documentation, and a demo for a Twitter Sentiment Analysis Tool based on Crypto market data using Python, Tweepy, TextBlob for initial sentiment testing, SKlearn Logistic Regression models, Crypto-Marketcap API, and Plotly for Data Visualizations. **This Code is best run via Google Colab, as all relevant files, information, and installations are done directly in our file interface.**
 
